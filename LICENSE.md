@@ -1,4 +1,4 @@
-
+smart minecraft Scripts offers the most advanced minecraft Script, with teleport and auto-upgrade. Perfect for dominating any match.
 
 
 
